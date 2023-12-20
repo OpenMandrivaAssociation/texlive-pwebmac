@@ -1,6 +1,6 @@
 Name:		texlive-pwebmac
-Version:	63731
-Release:	2
+Version:	69027
+Release:	1
 Summary:	Consolidated WEB macros for DVI and PDF output
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pwebmac
