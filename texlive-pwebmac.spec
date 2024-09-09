@@ -1,5 +1,5 @@
 Name:		texlive-pwebmac
-Version:	69027
+Version:	72015
 Release:	1
 Summary:	Consolidated WEB macros for DVI and PDF output
 Group:		Publishing
